@@ -1,0 +1,964 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\Imgui\imgui_widgets.cpp(883,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\Imgui\imgui_widgets.cpp(883,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\Imgui\imgui_widgets.cpp(894,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\Imgui\imgui_widgets.cpp(896,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\Imgui\imgui_widgets.cpp(896,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  External.cpp
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(191,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(191,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(191,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(231,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(232,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(233,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(235,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(236,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(237,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(239,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(240,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(241,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(242,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(243,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(244,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(246,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(247,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(248,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(249,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(251,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(252,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(253,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(254,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(256,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(257,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(258,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(259,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(300,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\uxtheme.h(1600,57): warning C4459: declaration of 'hwnd' hides global declaration
+  (compiling source file 'External.cpp')
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(25,6):
+  see declaration of 'hwnd'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\comms.h(38,32): warning C4129: 'I': unrecognized character escape sequence
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\dtcnerds.h(18,27): warning C4459: declaration of 'color' hides global declaration
+  (compiling source file 'External.cpp')
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(83,70): warning C4459: declaration of 'color' hides global declaration
+  (compiling source file 'External.cpp')
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(98,57): warning C4459: declaration of 'color' hides global declaration
+  (compiling source file 'External.cpp')
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(114,59): warning C4459: declaration of 'color' hides global declaration
+  (compiling source file 'External.cpp')
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(130,72): warning C4459: declaration of 'color' hides global declaration
+  (compiling source file 'External.cpp')
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(210,56): warning C4459: declaration of 'color' hides global declaration
+  (compiling source file 'External.cpp')
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(210,56): warning C4100: 'color': unreferenced formal parameter
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(216,58): warning C4459: declaration of 'color' hides global declaration
+  (compiling source file 'External.cpp')
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(216,58): warning C4100: 'color': unreferenced formal parameter
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(222,71): warning C4459: declaration of 'color' hides global declaration
+  (compiling source file 'External.cpp')
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(224,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(227,77): warning C4459: declaration of 'color' hides global declaration
+  (compiling source file 'External.cpp')
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(236,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(234,72): warning C4100: 'Color': unreferenced formal parameter
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(320,64): warning C4100: 'outline': unreferenced formal parameter
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(510,70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(238,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(239,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(240,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(265,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(266,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(267,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(402,9): warning C4459: declaration of 'vCamera' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(192,11):
+  see declaration of 'vCamera'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(440,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(442,8): warning C4189: 'CurrentActorId': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(467,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(467,6): warning C4189: 'len': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(495,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(495,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(495,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(495,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(495,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(496,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(496,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(496,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(496,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(496,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(497,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(497,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(497,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(497,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(497,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(498,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(498,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(498,119): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(498,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(498,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(499,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(499,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(503,53): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(508,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(508,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(508,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(508,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(508,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(508,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(511,53): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(513,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(513,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(513,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(513,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(513,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(513,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(513,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(513,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(513,183): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(516,55): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(518,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(518,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(518,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(518,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(521,60): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(522,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(523,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(524,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(524,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(524,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(524,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(525,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(525,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(525,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(525,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(526,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(526,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(526,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(526,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(527,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(527,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(527,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(527,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(528,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(528,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(528,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(528,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(529,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(529,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(529,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(529,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(530,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(530,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(530,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(530,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(531,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(531,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(531,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(531,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(534,53): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(545,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(546,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(550,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(550,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(551,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(551,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(552,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(552,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(553,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(553,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(555,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(555,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(555,181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(555,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(555,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(555,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(564,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(564,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(564,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(564,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(567,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(567,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(567,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(567,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(570,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(570,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(570,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(570,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(573,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(573,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(573,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(573,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(576,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(576,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(576,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(576,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(579,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(579,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(579,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(579,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(582,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(582,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(582,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(582,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(585,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(585,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(585,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(585,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(558,58): warning C4100: 'Color': unreferenced formal parameter
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(588,41): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(592,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(593,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(594,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(594,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(594,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(594,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(595,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(595,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(595,122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(595,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(596,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(596,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(596,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(596,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(597,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(597,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(597,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(597,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(598,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(598,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(598,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(598,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(599,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(599,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(599,137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(599,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(602,68): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(615,70): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(628,63): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(629,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(630,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(632,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(632,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(632,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(632,137): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(632,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(632,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(633,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(633,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(633,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(633,137): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(633,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(633,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(634,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(634,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(634,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(634,145): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(634,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(634,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(635,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(635,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(635,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(635,145): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(635,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(635,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(636,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(636,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(636,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(636,145): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(636,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(636,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(637,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(637,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(637,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(637,145): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(637,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(637,123): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(638,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(638,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(638,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(638,153): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(638,142): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(638,131): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(639,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(639,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(639,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(639,153): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(639,142): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(639,131): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(642,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(642,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(642,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(642,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(643,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(643,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(643,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(643,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(644,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(644,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(644,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(644,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(645,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(645,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(645,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(645,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(646,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(646,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(646,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(646,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(647,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(647,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(647,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(647,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(648,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(648,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(648,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(648,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(649,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(649,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(649,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(649,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(652,40): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(656,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(657,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(658,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(658,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(658,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(658,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(659,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(659,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(659,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(659,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(660,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(660,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(660,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(660,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(661,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(661,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(661,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(661,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(662,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(662,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(662,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(662,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(663,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(663,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(663,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(663,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(656,6): warning C4189: 'crosspozisyon': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(657,6): warning C4189: 'crosspozisyony': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(666,62): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(677,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(678,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(682,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(682,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(683,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(683,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(684,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(684,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(685,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(685,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(687,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(687,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(690,49): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(692,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(692,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(692,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(692,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(692,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(692,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(692,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(695,56): warning C4459: declaration of 'Col' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\ExternalUtils.h(400,10):
+  see declaration of 'Col'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(701,48): warning C4459: declaration of 'color' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(122,3):
+  see declaration of 'color'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(703,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(703,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(703,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(715,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(715,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(713,49): warning C4100: 'z1': unreferenced formal parameter
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(831,10): warning C4189: 'font': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(858,8): warning C4459: declaration of 'ScreenCenterX' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(56,7):
+  see declaration of 'ScreenCenterX'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(858,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(859,8): warning C4459: declaration of 'ScreenCenterY' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(57,7):
+  see declaration of 'ScreenCenterY'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(859,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(898,31): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(898,22): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(959,19): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(964,40): warning C4244: '=': conversion from 'const wchar_t' to 'char', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(973,18): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1030,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1042,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1046,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1050,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1054,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1058,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1062,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1066,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1070,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1074,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1078,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1082,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1086,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1090,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1094,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1098,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1102,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1106,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1110,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1114,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1118,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1122,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1126,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1130,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1134,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1138,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1142,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1146,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1150,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1154,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1158,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1162,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1166,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1170,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1174,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1178,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1182,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1186,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1190,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1194,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1198,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1202,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1206,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1210,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1214,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1218,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1222,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1226,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1230,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1234,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1238,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1242,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1251,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1256,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1256,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1256,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1256,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1257,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1257,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1257,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1257,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1258,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1258,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1258,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1258,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1259,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1259,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1259,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1259,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1264,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1282,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1287,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1288,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1293,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1294,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1296,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1306,81): warning C4459: declaration of 'platform' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\settings.h(277,6):
+  see declaration of 'platform'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1313,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1313,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1314,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1314,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1323,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1323,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1323,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1323,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1323,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1328,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1328,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1328,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1328,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1328,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1338,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1338,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1338,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1338,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1338,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1339,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1339,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1339,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1339,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1339,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1340,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1340,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1340,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1340,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1340,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1341,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1341,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1341,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1341,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1341,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1348,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1348,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1348,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1348,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1348,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1349,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1349,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1349,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1349,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1349,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1350,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1350,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1350,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1350,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1350,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1351,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1351,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1351,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1351,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1351,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1361,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1361,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1361,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1361,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1365,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1365,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1365,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1365,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1371,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1371,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1371,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1371,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1381,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1381,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1386,16): warning C4456: declaration of 'mesh' hides previous local declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1271,13):
+  see declaration of 'mesh'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1422,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1422,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1422,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1422,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1423,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1423,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1423,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1423,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1424,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1424,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1424,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1424,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1425,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1425,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1425,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1425,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1427,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1427,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1427,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1427,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1428,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1428,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1428,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1428,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1429,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1429,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1429,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1429,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1430,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1430,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1430,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1430,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1432,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1432,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1432,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1432,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1433,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1433,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1433,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1433,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1434,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1434,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1434,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1434,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1435,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1435,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1435,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1435,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1523,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1523,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1523,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1523,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1523,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1528,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1528,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1528,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1528,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1528,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1539,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1539,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1539,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1539,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1539,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1540,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1540,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1540,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1540,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1540,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1541,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1541,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1541,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1541,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1541,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1542,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1542,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1542,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1542,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1542,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1549,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1549,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1549,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1549,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1549,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1550,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1550,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1550,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1550,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1550,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1551,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1551,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1551,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1551,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1551,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1552,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1552,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1552,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1552,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1552,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1562,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1562,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1562,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1562,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1566,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1566,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1566,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1566,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1572,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1572,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1572,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1572,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1582,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1582,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1587,16): warning C4456: declaration of 'mesh' hides previous local declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1271,13):
+  see declaration of 'mesh'
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1623,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1623,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1623,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1623,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1624,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1624,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1624,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1624,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1625,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1625,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1625,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1625,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1626,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1626,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1626,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1626,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1628,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1628,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1628,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1628,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1629,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1629,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1629,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1629,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1630,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1630,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1630,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1630,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1631,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1631,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1631,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1631,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1633,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1633,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1633,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1633,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1634,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1634,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1634,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1634,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1635,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1635,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1635,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1635,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1636,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1636,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1636,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1636,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1712,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1758,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1758,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1516,37): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1297,9): warning C4189: 'CornerWidth': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1511,7): warning C4189: 'MyTeamId': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1290,9): warning C4189: 'LeftX': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1291,9): warning C4189: 'LeftY': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1513,13): warning C4189: 'ActorState': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1512,11): warning C4189: 'otherPlayerState': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1445,8): warning C4189: 'selfstate': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1443,12): warning C4189: 'CurrentVehicle': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1444,13): warning C4189: 'CurrentWeapon': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1320,12): warning C4101: 'ESPSkeletonn': unreferenced local variable
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1386,16): warning C4189: 'mesh': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1520,12): warning C4101: 'ESPSkeletonn': unreferenced local variable
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1587,16): warning C4189: 'mesh': local variable is initialized but not referenced
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1820,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1820,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1848,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1848,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1936,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1937,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1971,42): warning C4459: declaration of 'Message' hides global declaration
+  C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(31,5):
+  see declaration of 'Message'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:             _Elem=char
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53): warning C4244:         ]
+  (compiling source file 'External.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2749,53):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1308,31):
+  	see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  		C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1308,31):
+  		see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'blackballs'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(2590,17):
+  	see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(83,15): warning C4505: 'ZeroGui::PostRenderer::draw_filled_rect': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(98,15): warning C4505: 'ZeroGui::PostRenderer::text_left': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(114,15): warning C4505: 'ZeroGui::PostRenderer::text_center': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(130,15): warning C4505: 'ZeroGui::PostRenderer::draw_line': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(189,14): warning C4505: 'ZeroGui::next_column': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(199,14): warning C4505: 'ZeroGui::push_element_x': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(204,14): warning C4505: 'ZeroGui::push_element_y': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(234,14): warning C4505: 'ZeroGui::draw_circle': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(240,14): warning C4505: 'ZeroGui::begin_window': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(320,14): warning C4505: 'ZeroGui::text_normal': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(356,14): warning C4505: 'ZeroGui::button_tab': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(415,14): warning C4505: 'ZeroGui::check_box': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(473,14): warning C4505: 'ZeroGui::zero_slider': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\zerogui.h(547,14): warning C4505: 'ZeroGui::zero_render': unreferenced function with internal linkage has been removed
+  (compiling source file 'External.cpp')
+  
+  Generating code
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1313): warning C4701: potentially uninitialized local variable 'offset' used
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1422): warning C4701: potentially uninitialized local variable 'ESPSkeleton' used
+C:\Users\DESKTOP\Downloads\fortnite-external-source-main\fortnite-external-source-main\External.cpp(1623): warning C4701: potentially uninitialized local variable 'ESPSkeleton' used
+  1423 of 1431 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    85 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Foundation.vcxproj -> C:\Users\DESKTOP\Downloads\fortnite-external-source-main\Build\asf.exe
